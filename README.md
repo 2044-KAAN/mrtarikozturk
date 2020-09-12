@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Tarik. I'm fullstack developer.👋
 
 <!--
 **mrtarikozturk/mrtarikozturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
