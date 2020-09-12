@@ -1,5 +1,7 @@
 ### Hi, I'm Tarik. I'm fullstack developer.👋
 
+<img src="https://github.com/ezranbayantemur/ezranbayantemur/raw/master/animation_500_kd7ngokt.gif" alt="react-native" width="200" height="200" align="right" style="max-width:100%;">
+
 <!--
 **mrtarikozturk/mrtarikozturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
