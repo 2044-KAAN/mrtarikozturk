@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+<style><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/><style/>
 <h3 class="animate__animated animate__bounce">Hi, I'm Tarik. I'm fullstack developer.👋<h3/>
 
 <img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/animation_500_kd7ngokt.gif" alt="react-native" width="200" height="200" align="right" style="max-width:100%;">
