@@ -9,7 +9,7 @@
 <br/>
 <br/>
 <br/>
-<img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/c%23.png" width="100" height="100">
+<p><img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/c%23.png" width="100" height="100">
 <img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/css3.png" width="100" height="100">
 <img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/dj.png" width="100" height="100">
 <img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/drive.png" width="100" height="100">
@@ -29,7 +29,7 @@
 <img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/reactt.png" width="100" height="100">
 <img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/stackover.png" width="100" height="100">
 <img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/vs.png" width="100" height="100">
-
+<p/>
 
 
 
