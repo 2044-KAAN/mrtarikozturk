@@ -10,8 +10,8 @@
 <br/>
 <br/>
 <p>
- <img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/c%23.png" width="50" height="50" border="1px solid">
-<img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/css3.png" width="50" height="50">
+ <img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/c%23.png" width="50" height="50" border="5">
+<img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/css3.png" width="50" height="50" border="5">
 <img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/dj.png" width="50" height="50">
 <img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/drive.png" width="50" height="50">
 <img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/es6.jpg" width="50" height="50">
