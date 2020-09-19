@@ -1,4 +1,4 @@
-
+[![image](.....................................)](https://github.com/mrtarikozturk)
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 <h3 class="animate__animated animate__bounce">Hi, I'm Tarik. I'm fullstack developer.👋<h3/>
 
