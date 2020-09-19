@@ -1,3 +1,4 @@
+<div style="background-color: aqua;">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 <h3 class="animate__animated animate__bounce">Hi, I'm Tarik. I'm fullstack developer.👋<h3/>
 
@@ -54,3 +55,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+</div>
