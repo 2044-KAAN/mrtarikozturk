@@ -31,6 +31,7 @@ background-image: url(../images/stars.svg);
 <br/>
 <br/>
 <p>My Tools :<p/>
+```html
 <p align="bottom">
  <img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/c%23.png" width="25" height="25" border: 5px solid #555>
 <img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/css3.png" width="25" height="25" border: 5px solid #555>
@@ -53,6 +54,7 @@ background-image: url(../images/stars.svg);
 <img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/stackover.png" width="25" height="25">
 <img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/vs.png" width="25" height="25">
 <p/>
+```
 <!--
 **mrtarikozturk/mrtarikozturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
