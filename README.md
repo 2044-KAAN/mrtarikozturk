@@ -1,3 +1,4 @@
+<img align="right" src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/Webp.net-gifmaker.gif" alt="tools" width="100" height="100" align="right" style="max-width:100%;">
 
 <h3 class="animate__animated animate__bounce">Hi, I'm Tarik. I'm fullstack developer.👋<h3/>
 
