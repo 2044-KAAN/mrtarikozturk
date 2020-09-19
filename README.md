@@ -8,16 +8,17 @@ background-image: url(../images/stars.svg);
 <img src="https://camo.githubusercontent.com/ecdf091dc9f099a6db3e61242963a3a5412ae6a8/687474703a2f2f696d672e736869656c64732e696f2f62616467652f746563682d737461636b2d3036393066612e7376673f7374796c653d666c6174" alt="" data-canonical-src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" style="max-width:100%;">
 ```json
    
-```
-```html
+   
+   
+   
+   
+   
+   
+   
+   
    
 ```
-```js
-   // code for coloring
-```
-```css
-   // code for coloring
-```
+
 <br/>
 <br/>
 <br/>
@@ -31,7 +32,6 @@ background-image: url(../images/stars.svg);
 <br/>
 <br/>
 <p>My Tools :<p/>
-```html
 <p align="bottom">
  <img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/c%23.png" width="25" height="25" border: 5px solid #555>
 <img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/css3.png" width="25" height="25" border: 5px solid #555>
@@ -54,7 +54,6 @@ background-image: url(../images/stars.svg);
 <img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/stackover.png" width="25" height="25">
 <img src="https://github.com/mrtarikozturk/mrtarikozturk/blob/master/vs.png" width="25" height="25">
 <p/>
-```
 <!--
 **mrtarikozturk/mrtarikozturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
