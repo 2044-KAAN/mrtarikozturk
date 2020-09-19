@@ -1,4 +1,5 @@
 <div style="background-color: aqua;">
+ ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 <h3 class="animate__animated animate__bounce">Hi, I'm Tarik. I'm fullstack developer.👋<h3/>
 
